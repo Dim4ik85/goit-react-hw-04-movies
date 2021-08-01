@@ -50,7 +50,7 @@ img {
 }
 
 .NavLink--active {
-  color: palevioletred;
+  color: #0095b6;
   font-weight: bold;
 }
 
@@ -64,8 +64,8 @@ img {
 
   &:focus,
   &:hover {
-    color: palevioletred;
-    border: 2px solid palevioletred;
+    color: #0095b6;
+    border: 2px solid #0095b6;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   }
 }
